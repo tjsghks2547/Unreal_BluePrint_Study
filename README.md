@@ -21,3 +21,10 @@ Over Lap 상호작용 및 Material 공부  <br><br>
 [https://seonhwan2547.tistory.com/89](https://seonhwan2547.tistory.com/90)
 <br><br>
 ![Image](https://github.com/user-attachments/assets/60fb754e-b3cd-48bb-bc35-1208702ed719)
+
+
+<br><br>
+충돌 Channel 및 이펙트, 피격효과, Behavior Tree 공부  <br><br>
+[https://seonhwan2547.tistory.com/91](https://seonhwan2547.tistory.com/91)
+<br><br>
+![Image](https://github.com/user-attachments/assets/c4aca376-8444-4f31-aa3c-7b406eca3fea)
