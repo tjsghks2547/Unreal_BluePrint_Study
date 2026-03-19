@@ -28,3 +28,10 @@ Over Lap 상호작용 및 Material 공부  <br><br>
  📝[https://seonhwan2547.tistory.com/91](https://seonhwan2547.tistory.com/91)
 <br><br>
 ![Image](https://github.com/user-attachments/assets/c4aca376-8444-4f31-aa3c-7b406eca3fea)
+
+
+<br><br>
+ Pawn Sensing 기반 몬스터 탐지 Behavior Tree, Debug 명령어  <br><br>
+ 📝[https://seonhwan2547.tistory.com/92](https://seonhwan2547.tistory.com/92)
+<br><br>
+![Image](https://github.com/user-attachments/assets/7db82c79-3072-466f-95cc-ab072c2f0d49)
