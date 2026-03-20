@@ -38,7 +38,7 @@ Over Lap 상호작용 및 Material 공부  <br><br>
 
 
 <br><br>
-AI Perception, UI , Billboard , Data Table 공부
+AI Perception, UI , Billboard , Data Table 공부 <br><br>
  📝[https://seonhwan2547.tistory.com/93](https://seonhwan2547.tistory.com/92)
 <br><br>
 ![Image](https://github.com/user-attachments/assets/53d86483-b464-4202-a61a-3a60af8760d9)
