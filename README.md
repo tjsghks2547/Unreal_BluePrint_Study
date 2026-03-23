@@ -39,6 +39,13 @@ Over Lap 상호작용 및 Material 공부  <br><br>
 
 <br><br>
 AI Perception, UI , Billboard , Data Table 공부 <br><br>
- 📝[https://seonhwan2547.tistory.com/93](https://seonhwan2547.tistory.com/92)
+ 📝[https://seonhwan2547.tistory.com/93](https://seonhwan2547.tistory.com/93)
 <br><br>
 ![Image](https://github.com/user-attachments/assets/53d86483-b464-4202-a61a-3a60af8760d9)
+
+
+<br><br>
+Camera Shake, State Ailas, UI 이벤트 공부 <br><br>
+ 📝[https://seonhwan2547.tistory.com/94](https://seonhwan2547.tistory.com/94)
+<br><br>
+![Image](https://github.com/user-attachments/assets/51df7220-3479-46cc-a35f-cd58480fbd50)
